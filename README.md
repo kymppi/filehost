@@ -12,4 +12,5 @@ another project idea for personal usage
 - easy file uploader for flameshot/sharex/etc
 - postgres
 - RSS Feed for profiles and collections? Is there any format for this?
+- remove/edit photo metadata, for example EXIF
 - Any other ideas? Feel free to open issues about them.
