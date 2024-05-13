@@ -13,4 +13,5 @@ another project idea for personal usage
 - postgres
 - RSS Feed for profiles and collections? Is there any format for this?
 - remove/edit photo metadata, for example EXIF
+  - render MAP if EXIF data exists for photo
 - Any other ideas? Feel free to open issues about them.
