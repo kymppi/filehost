@@ -11,4 +11,5 @@ another project idea for personal usage
   - gallery view (restric file type to only photos and videos)
 - easy file uploader for flameshot/sharex/etc
 - postgres
+- RSS Feed for profiles and collections? Is there any format for this?
 - Any other ideas? Feel free to open issues about them.
